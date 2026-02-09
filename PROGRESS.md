@@ -1,8 +1,9 @@
 # AZ-104 6-Week Sprint Progress
+Using louispachas.service@gmail.com account in Azure
 
 ## Week 0 - Setup + Governance Scaffold
-- [ ] Budget + alerts set in Azure portal (50/80/100%)
-- [ ] rg-az104 created
-- [ ] Tags applied to rg-az104
-- [ ] Delete lock applied to rg-az104
+- [X] Budget + alerts set in Azure portal (50/80/100%)
+- [X] resource group created
+- [X] Tags applied to resource group
+- [X] Delete lock applied to resource group
 - [ ] README + commands.ps1 committed
